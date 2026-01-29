@@ -41,5 +41,13 @@ No additional setup is required.
 ---
 
 ## 📸 Screenshots
-Screenshots of the website are included in the project folder.
+Screenshots will be added soon.
+
+---
+
+## 👨‍💻 Authors
+- **Sunil Kumar Soni**
+- **Sukhdev Jangid**
+
+BCA Students
 
